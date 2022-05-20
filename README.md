@@ -1,6 +1,6 @@
 
 # Desafio React
-Esse desafio simula um sitema de login, utilizando o Localstorage para salvar o token, que é criado de forma aleatória,
+Esse desafio simula um sistema de login, utilizando o Localstorage para salvar o token, que é criado de forma aleatória,
 com a possibilidade de também logar pelo Facebook. Além da página de login contém uma página inicial para os relatórios,
 onde fica os gráficos e uma página "sobre".
 
@@ -10,7 +10,7 @@ onde fica os gráficos e uma página "sobre".
 
 
 
-## Rodando localmente
+## Rodando 
 
 Clone o projeto
 
