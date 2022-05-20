@@ -1,0 +1,62 @@
+{
+  "users": [
+    { "login": "bruno", "password": "123"},
+    { "login": "fernando", "password": "123"},
+    { "login": "rafael", "password": "123"}
+  ],
+
+  "products" : [
+          { "id": 1, "name": "Cheese", "price": 4.9, "stock": 20 },
+          { "id": 2, "name": "Milk", "price": 1.9, "stock": 32 },
+          { "id": 3, "name": "Yoghurt", "price": 2.4, "stock": 12 },
+          { "id": 4, "name": "Heavy Cream", "price": 3.9, "stock": 9 },
+          { "id": 5, "name": "Butter", "price": 0.9, "stock": 99 },
+          { "id": 6, "name": "Sour Cream" , "price": 2.9, "stock": 86 },
+          { "id": 7, "name": "Fancy French Cheese", "price": 99, "stock": 12 }
+  ],
+
+  "lineChart" : [{"users":"Flemming","vendas":1021,"compras":1491},
+    {"users":"Stefan","vendas":1223,"compras":4709},
+    {"users":"Dorelia","vendas":3107,"compras":4516},
+    {"users":"Blaine","vendas":2696,"compras":1359},
+    {"users":"Remy","vendas":1573,"compras":4286},
+    {"users":"Syd","vendas":708,"compras":3659},
+    {"users":"Bax","vendas":2482,"compras":2231},
+    {"users":"Towny","vendas":3426,"compras":4467},
+    {"users":"Natka","vendas":4571,"compras":4550},
+    {"users":"Jordon","vendas":2913,"compras":1514},
+    {"users":"Carla","vendas":757,"compras":1427},
+    {"users":"Shannon","vendas":2058,"compras":869},
+    {"users":"Collette","vendas":4135,"compras":504},
+    {"users":"Latrena","vendas":4836,"compras":1007},
+    {"users":"Alano","vendas":4044,"compras":1492},
+    {"users":"Vittoria","vendas":4414,"compras":4195},
+    {"users":"Renaud","vendas":60,"compras":4928},
+    {"users":"Shaw","vendas":4645,"compras":3483},
+    {"users":"Delphine","vendas":2843,"compras":2904},
+    {"users":"Ogden","vendas":3392,"compras":1495}
+  ],
+
+  "barChart" : [{"dia":"16/10/2021","qnt_users":2839},
+    {"dia":"12/1/2022","qnt_users":3088},
+    {"dia":"10/5/2022","qnt_users":1916},
+    {"dia":"18/8/2021","qnt_users":389},
+    {"dia":"4/3/2022","qnt_users":2421},
+    {"dia":"15/2/2022","qnt_users":1996},
+    {"dia":"7/5/2022","qnt_users":3720},
+    {"dia":"25/8/2021","qnt_users":2830},
+    {"dia":"7/5/2021","qnt_users":4798},
+    {"dia":"2/2/2022","qnt_users":1629},
+    {"dia":"1/2/2022","qnt_users":951},
+    {"dia":"24/11/2021","qnt_users":3931},
+    {"dia":"23/6/2021","qnt_users":4329},
+    {"dia":"22/3/2022","qnt_users":3631},
+    {"dia":"19/12/2021","qnt_users":2658},
+    {"dia":"26/12/2021","qnt_users":1229},
+    {"dia":"17/6/2021","qnt_users":454},
+    {"dia":"5/8/2021","qnt_users":2841},
+    {"dia":"10/1/2022","qnt_users":2783},
+    {"dia":"24/2/2022","qnt_users":1738}
+  ]
+
+}
