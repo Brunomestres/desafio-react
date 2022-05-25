@@ -18,7 +18,7 @@ const positionMarker = {
 function Mapa() {
   const { isLoaded } = useJsApiLoader({
     id: 'google-map-script',
-    googleMapsApiKey: "AIzaSyB1RfLZ0T1sqOgVKvp5himiwIJ9B5oc_8g"
+    googleMapsApiKey: ""
   })
 
   const [map, setMap] = React.useState(null)
